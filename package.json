@@ -1,5 +1,5 @@
 {
-  "name": "other_frontend",
+  name: "other_frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
